@@ -5,19 +5,19 @@
 
 **Dog** class is a template which can be used for all dogs, it has a variable: animal_kind, and a method: bark.
 
-<img src="D:/Python project/Tech 241/python_oop/dog_class.jpg" />
+![dog_class](dog_class.jpg)
 
 Create instances: fido and lassie, which are objects created from Dog class. So that objects' attributes and methods can be accessed. 
 
-<img src="D:/Python project/Tech 241/python_oop\dog_class_phase1.png" />
+![dog_class_phase1](dog_class_phase1.png)
 
 When assign global variables, the variables in the class can be overwritten.
 
-<img src="D:/Python project/Tech 241/python_oop/dog_class_phase2.png" />
+![dog_class_phase2](dog_class_phase2.png)
 
 ### Four Pillars
 
-<img src="D:/Python project/Tech 241/python_oop/animal_class.png" />
+![animal_class](animal_class.png)
 
 #### 1. Abstraction
 The idea of abstraction is to not know the implementations in order to use it. From the diagram, Animal class 
