@@ -15,7 +15,7 @@ When assign global variables, the variables in the class can be overwritten.
 
 <img src="D:\Python project\Tech 241\python_oop\dog_class_phase2.png"/>
 
-### Four pillars
+### Four Pillars
 
 <img src="D:\Python project\Tech 241\python_oop\animal_class.png"/>
 
